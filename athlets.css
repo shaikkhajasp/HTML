@@ -1,0 +1,17 @@
+.khaja-main{
+   width: 80%;
+   height: 600px;
+   /* border: 2px solid red; */
+   margin-left: 200px;
+   margin-top:40px ;
+}
+.khaja1,.khaja2,.khaja3,.khaja4,.khaja5{
+   display: inline-block;
+   width: 200px;
+   height: 500px;
+   /* border: 2px solid green; */
+
+}
+img{
+    width: 100%;
+}
